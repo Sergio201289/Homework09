@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ThemeCurrent", "ThemeCurrent", "{0C247427-C50E-4981-845D-C4D243E0D0EC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lesson_04", "Lesson_04", "{AFA78284-C13F-4608-AE8C-7F2DE4C439AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework", "Homework\Homework.csproj", "{1508D0B8-08F4-4B2C-BB5C-4748B1549EA7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1508D0B8-08F4-4B2C-BB5C-4748B1549EA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1508D0B8-08F4-4B2C-BB5C-4748B1549EA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1508D0B8-08F4-4B2C-BB5C-4748B1549EA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1508D0B8-08F4-4B2C-BB5C-4748B1549EA7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{AFA78284-C13F-4608-AE8C-7F2DE4C439AB} = {0C247427-C50E-4981-845D-C4D243E0D0EC}
+		{1508D0B8-08F4-4B2C-BB5C-4748B1549EA7} = {AFA78284-C13F-4608-AE8C-7F2DE4C439AB}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6CE69695-2389-49A4-A8B3-FCD865258688}
+	EndGlobalSection
+EndGlobal
